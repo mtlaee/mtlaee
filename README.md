@@ -2,8 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Taufik Akbar**.\
 
-Saya seorang Mahasiswa Sistem Informasi Semester 8 di Universitas Mikroskil dan Alumni Studi Independen Batch 3 Pengembang Aplikasi Android di Dicoding
-
+Saya seorang Fresh Graduate Jurusan Sistem Informasi Universitas Mikroskil. I Love doing design and code
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-taufik-akbar-2973a1235/)ku ya.
 
 <p align="left">
